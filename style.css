@@ -62,6 +62,10 @@ button {
 }
 .itemb {
     border-left: 10px solid #f0b429;
+    box-shadow: 1px 2px 3px 4px rgba(20,20,20,0.1);
+}
+.item3-a, .item3-b {
+    box-shadow: 1px 2px 3px 4px rgba(20,20,20,0.1);
 }
 .item1 {
     grid-row: 1/2;
