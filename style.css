@@ -38,11 +38,16 @@
 }
 .btn{
     display:flex;
+    justify-content: space-between;
 }
 button {
     background-color: #1A93D3;
     border-radius: 20px;
-    padding: 10px;
+    padding: 8px 30px;
+    border: 1px solid #1A93D3;
+    display: flex;
+    margin-left: 23px;
+    color: white;
 }
 .box3 {
     display: grid;
