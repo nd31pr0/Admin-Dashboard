@@ -26,7 +26,7 @@
 .cont1 .first-child {
     margin: 560px 0;
 } 
-.db, .home, .profile, .mssge, .htr, .tsk, .cmt {
+.db, .home, .profile, .mssge, .htr, .tsk, .cmt, .settings, .privacy, .support {
     display: flex;
     justify-content:left;
 }
@@ -34,7 +34,7 @@
     color: white;
     height: 40px;
 }
-.hm-img, .prl-img, .mssge-img, .htr-img, .tsk-img, .cmt-img {
+.hm-img, .prl-img, .mssge-img, .htr-img, .tsk-img, .cmt-img, .st-img, .su-img, .pcv-img {
     height: 25px;
 }
 
