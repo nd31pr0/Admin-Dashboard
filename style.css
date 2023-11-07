@@ -35,10 +35,8 @@
     display: flex;
     justify-content: space-between;
     padding: 0 25px;
+    border: 0px;
     align-items: center;
-}
-.header-bottom {
-    margin: 1px;
 }
 .search {
       display: flex;
