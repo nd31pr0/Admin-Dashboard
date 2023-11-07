@@ -29,24 +29,26 @@
 .db, .home, .profile, .mssge, .htr, .tsk, .cmt, .settings, .privacy, .support {
     display: flex;
     justify-content:left;
+    align-items: center;
+}
+.db, .cmt {
+    padding-bottom: 40px ;
 }
 #db {
-    font-size: 19px;
-    padding-bottom: 50px;
+    font-size: 22px;
     font-weight: bold;
 }
 .db-img  {
     color: white;
     height: 40px;
 }
-#cmt {
-    padding-bottom: 50px;
-}
+
 .hm-img, .prl-img, .mssge-img, .htr-img, .tsk-img, .cmt-img, .st-img, .su-img, .pvc-img {
     height: 25px;
 }
 p {
     font-weight: bold;
+    font-size: 16px;
 }
 .box2 {
     display: grid;
