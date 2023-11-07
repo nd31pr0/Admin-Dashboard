@@ -35,13 +35,18 @@
     display: flex;
     justify-content: space-between;
     padding: 0 25px;
+    align-items: center;
 }
 .header-bottom {
-    margin: 15px;
+    margin: 1px;
 }
 .search {
       display: flex;
       justify-content: space-between;
+      align-items: center;
+}
+#sch-icon {
+    height: 25px;
 }
 
 #icn {
@@ -56,6 +61,10 @@
     border-radius: 20px;
     height: 30px; 
 }
+.arr-img {
+    height: 80px;
+    padding-: 20px;
+}
 img {
     height: 50px;
     padding-right: 15px;
@@ -63,9 +72,13 @@ img {
 .icns {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+#bel {
+    height: 22px;
 }
 .hdr-txt {
-    font-weight: bolder;
+    font-weight: bold;
 }
 .btn{
     display:flex;
@@ -80,6 +93,18 @@ button {
     margin-left: 23px;
     color: white;
     font-size: 14px;
+}
+.txt-top {
+    font-weight: bold;
+}
+.txt-btm {
+    font-size: 22px;
+    font-weight:900;
+}
+.icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .box3 {
     display: grid;
