@@ -19,13 +19,24 @@
     height:97vh;
 }
 .sidebar p {
-    padding: 20px;
+    padding: 10px;
     color: white;
 
 }
 .cont1 .first-child {
     margin: 560px 0;
 } 
+.db, .home {
+    display: flex;
+    justify-content:left;
+}
+.db-img  {
+    color: white;
+    height: 40px;
+}
+.hm-img {
+    height: 25px;
+}
 
 .box2 {
     display: grid;
@@ -54,7 +65,7 @@
 .serch {
     font-size: 17px;
     border: 1px #E2E8F0;
-    width: 500px;
+    width: 800px;
     background: #E2E8F0;
     border-radius: 20px;
     height: 30px; 
