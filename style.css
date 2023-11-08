@@ -182,6 +182,9 @@ button {
     padding-bottom: 10px;
     padding-left: 20px;
 }
+.item1 p, .item2 p, .item4 p, .item5 p, .item6 p, .item7 p {
+    padding-top: 5px;
+}
 .card-cont {
     padding-right: 80px;
 }
