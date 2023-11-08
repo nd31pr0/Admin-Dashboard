@@ -165,6 +165,10 @@ button {
     display: grid;
     grid-template-rows: repeat(3, 1fr);
     padding: 30px;
+    font-size: 14px;
+}
+.item3-a h4 {
+    padding-bottom: 5px;
 }
 .item3-b {
     background-color: white;
