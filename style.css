@@ -175,6 +175,14 @@ button {
 }
 .right-inner-addon i {
 }
+
+.item3-b{
+    display: grid;
+    grid-template-rows: repeat(4, 1fr);
+    padding: 30px;
+    font-size: 14px;
+}
+
 .item1, .item2, .item4, .item5, .item6, .item7 {
     display: grid;
     /* grid-template-rows: .5fr, 5fr; */
