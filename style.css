@@ -183,6 +183,12 @@ button {
     font-size: 14px;
 }
 
+.trend-item {
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+}
+
 .item1, .item2, .item4, .item5, .item6, .item7 {
     display: grid;
     /* grid-template-rows: .5fr, 5fr; */
