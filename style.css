@@ -162,6 +162,9 @@ button {
 }
 .item3-a {
     background-color: white;
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    padding: 30px;
 }
 .item3-b {
     background-color: white;
