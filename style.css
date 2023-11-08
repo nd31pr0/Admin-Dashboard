@@ -1,10 +1,13 @@
 *{
     margin: 0;
 }
+p {
+    color: #919191;
+}
 .container{
     display: grid;
     grid-template-columns: 1fr 5fr;
-    grid-template-rows: 1fr 5fr;
+    grid-template-rows: 1fr 4fr;
 }
 .container .box {
     border: 2px ;
@@ -23,9 +26,7 @@
     color: white;
 
 }
-.cont1 .first-child {
-    margin: 560px 0;
-} 
+
 .db, .home, .profile, .mssge, .htr, .tsk, .cmt, .settings, .privacy, .support {
     display: flex;
     justify-content:left;
@@ -58,9 +59,9 @@
     display: flex;
     justify-content: space-between;
     padding: 0 25px;
-    border: 0px;
     align-items: center;
 }
+
 .search {
       display: flex;
       justify-content: space-between;
