@@ -168,3 +168,22 @@ button {
 }
 .right-inner-addon i {
 }
+.item1, .item2, .item4, .item5, .item6, .item7 {
+    display: grid;
+    grid-template-rows: .5fr, 5fr;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.card-cont {
+    padding-right: 80px;
+}
+.card-icons {
+    /* background-color: #1A93D3; */
+    border-radius: 20px;
+    display: flex;
+    justify-content:end;
+}
+.card-icons img {
+    height: 20px;
+}
