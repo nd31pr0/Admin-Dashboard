@@ -21,7 +21,7 @@ Ndzi Nfor
 
 ## The Odin Project (Web development) Completed projects
  
-* First Project - Recipes [basic HTML]
+* [First Project - Recipes](https://github.com/nd31pr0/odin-recipes) [basic HTML]
 * [Second Project - Landing Page](https://github.com/nd31pr0/Landing_Page) [HTML | basic CSS + flexbox]
 * [Third Project](https://github.com/nd31pr0/Etch-a-Sketch) - Rock Paper Scissors [HTML | CSS | Basic JavaScript]
 * [Fourth Project - Etch-a-Sketch](https://github.com/nd31pr0/Etch-a-Sketch) [HTML | CSS | Basic JavaScript + events]
