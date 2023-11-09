@@ -18,3 +18,13 @@ Ndzi Nfor
 ## Demo
 
 ![Demo of built dashboard](icons/demo.png)
+
+## The Odin Project (Web development) Completed projects
+ 
+* First Project - Recipes [basic HTML]
+* Second Project - Landing Page [HTML | basic CSS + flexbox]
+* Third Project - Rock Paper Scissors [HTML | CSS | Basic JavaScript]
+* Fourth Project - Etch-a-Sketch [HTML | CSS | Basic JavaScript + events]
+* Fifth Project - Calculator [HTML | CSS | JavaScript]
+* Sixth Project - Sign-up Form [HTML | CSS | JavaScript]
+* Seventh Project - Admin Dashboard [HTML | CSS | JavaScript]
