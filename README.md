@@ -25,6 +25,6 @@ Ndzi Nfor
 * Second Project - Landing Page [HTML | basic CSS + flexbox]
 * Third Project - Rock Paper Scissors [HTML | CSS | Basic JavaScript]
 * Fourth Project - Etch-a-Sketch [HTML | CSS | Basic JavaScript + events]
-* Fifth Project - Calculator [HTML | CSS | JavaScript]
+* [Fifth Project - Calculator](https://github.com/nd31pr0/Odin_calculator_Project) [HTML | CSS | JavaScript]
 * [Sixth Project - Sign-up Form](https://github.com/nd31pr0/odin-signup-form-project) [HTML | CSS |]
 * [Seventh Project - Admin Dashboard](https://github.com/nd31pr0/Admin-Dashboard) [HTML | CSS | JavaScript]
