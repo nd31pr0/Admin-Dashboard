@@ -27,4 +27,4 @@ Ndzi Nfor
 * Fourth Project - Etch-a-Sketch [HTML | CSS | Basic JavaScript + events]
 * Fifth Project - Calculator [HTML | CSS | JavaScript]
 * Sixth Project - Sign-up Form [HTML | CSS | JavaScript]
-* Seventh Project - Admin Dashboard [HTML | CSS | JavaScript]
+* [Seventh Project - Admin Dashboard](https://github.com/nd31pr0/Admin-Dashboard) [HTML | CSS | JavaScript]
