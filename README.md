@@ -15,4 +15,6 @@ Build a full dashboard design. For this project, use whatever tools you need to 
 Ndzi Nfor
 
 
+## Demo
 
+![Demo of built dashboard](icons/demo.png)
